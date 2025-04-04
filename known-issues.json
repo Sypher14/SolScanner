@@ -8,6 +8,10 @@
     {
       "title": "Delay in showing creator tokens",
       "description": "There's a slight delay when loading tokens. This will be optimized in the next update."
+    },
+    {
+      "title": "Add Disclaimer to about page",
+      "description": "Add Disclaimer to about page."
     }
   ]
 }
