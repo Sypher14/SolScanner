@@ -1,0 +1,2 @@
+# SolScanner
+Solana Token Scanner
