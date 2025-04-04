@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2025-04-04",
+  "issues": [
+    {
+      "title": "Copy token address not working",
+      "description": "We're fixing a bug where copying the token address doesn't work on some devices."
+    },
+    {
+      "title": "Delay in showing creator tokens",
+      "description": "There's a slight delay when loading tokens. This will be optimized in the next update."
+    }
+  ]
+}
