@@ -12,6 +12,10 @@
     {
       "title": "Add Disclaimer to about page",
       "description": "Add Disclaimer to about page."
+    },
+    {
+      "title": "Dev Holding fix",
+      "description": "Dev Holding value to be fixed."
     }
   ]
 }
