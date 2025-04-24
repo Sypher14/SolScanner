@@ -1,17 +1,9 @@
 {
-  "lastUpdated": "2025-04-04",
+  "lastUpdated": "2025-04-24",
   "issues": [
     {
       "title": "Copy token address not working",
       "description": "We're fixing a bug where copying the token address doesn't work on some websites."
-    },
-    {
-      "title": "Delay in showing creator tokens",
-      "description": "There's a slight delay when loading tokens. This will be optimized in the next update."
-    },
-    {
-      "title": "Add Disclaimer to about page",
-      "description": "Add Disclaimer to about page."
     },
     {
       "title": "Dev Holding fix",
