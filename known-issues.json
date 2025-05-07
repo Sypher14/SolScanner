@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-04-24",
+  "lastUpdated": "2025-05-07",
   "issues": [
     {
-      "title": "Copy token address not working",
-      "description": "We're fixing a bug where copying the token address doesn't work on some websites."
+      "title": "token address Auto-paste not working on all sites",
+      "description": "We're fixing a bug where copying the token address from many websites does not automatically open SolScanner and fetch token data."
     },
     {
-      "title": "Dev Holding fix",
+      "title": "Dev Holding Value",
       "description": "Dev Holding value to be fixed."
     },
     {
